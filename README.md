@@ -5,7 +5,7 @@
 ### Date: 
 
 ## AIM:
-To create a project on time series analysis for **Yahoo stock prediction** using the ARIMA model in Python and evaluate its performance.
+To create a project on time series analysis for **Amazon stock prediction** using the ARIMA model in Python and evaluate its performance.
 
 ## ALGORITHM:
 1. Load and explore the stock dataset.
