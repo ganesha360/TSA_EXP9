@@ -128,35 +128,27 @@ print('Mean Squared Error:', mse)
 ## OUTPUT:
 
 ### Original Dataset and Graphical Representation:
-| Image |
-|-------|
-| ![Original Dataset](https://github.com/user-attachments/assets/e58bd28f-be3c-438e-86c5-f68ea5b974fb) |
-| ![Stock Price Plot](https://github.com/user-attachments/assets/8404d105-768c-4e11-92b5-73e43ac8967b) |
+|![image](https://github.com/user-attachments/assets/07a9906b-ad75-43a5-b5d0-89174ba7edb2)
+![image](https://github.com/user-attachments/assets/24c7abbc-b020-4bfa-aa62-0181ed598b96)
 
 ### Autocorrelation and Partial Autocorrelation Representation:
-| ACF Plot and PACF Plot| 
-|----------|
-| ![ACF Plot](https://github.com/user-attachments/assets/eb586082-9971-4468-80ff-8b92b0b9c85e) |
+![image](https://github.com/user-attachments/assets/107c63ec-01e9-4af6-b246-45ae7c51c4ff)
+
 
 ### Differenced Representation:
-| Image |
-|-------|
-| ![Differenced Stock Price](https://github.com/user-attachments/assets/3aff53c6-0c1e-4c30-aca4-a40bbf87734a) |
+![image](https://github.com/user-attachments/assets/47c9a98c-236e-451c-97a1-3d9c4ecaa977)
+
 
 ### Model Results:
-| Image |
-|-------|
-| ![Model Summary](https://github.com/user-attachments/assets/dfcd93a1-eab9-4834-a6f9-a1e79b97a5e5) |
+![image](https://github.com/user-attachments/assets/33c3a991-33df-4568-b507-200c66351286)
+
 
 ### Forecasted Representation:
-| Image |
-|-------|
-| ![Forecasted Stock Price](https://github.com/user-attachments/assets/56a612ab-c71e-45d5-bf55-2bc4c4ec6b47) |
+![image](https://github.com/user-attachments/assets/9dfe55b4-f349-4e85-9ce8-5c5bc4da30e8)
 
 ### Model Results Summary:
-| Image |
-|-------|
-| ![Model Results](https://github.com/user-attachments/assets/b9752e64-d73a-48bb-8997-dd01c296d8e3) |
+![image](https://github.com/user-attachments/assets/1c0e0e10-116a-4299-883a-0a210b3f711a)
+
 
 ## RESULT:
 Thus, the program ran successfully based on the ARIMA model using Python.
